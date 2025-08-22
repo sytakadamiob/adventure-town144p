@@ -6,3 +6,12 @@ a.out
 /build/
 .vscode/
 .DS_Store
+# build outputs
+adventure_town144p
+adventure-town144p
+*.o
+*.obj
+*.out
+*.exe
+a.out
+/build/
